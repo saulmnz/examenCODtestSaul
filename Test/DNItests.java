@@ -12,6 +12,9 @@ public class DNItests {
             "12345678, Z, true",
             "11111111, H, true",
             "53974423, R, true",
+            "53123155, J, false",
+            "53974423, W, false"
+
     })
     void testComprobarDNI(String dni, char letra, boolean expected) {
         boolean result = Main.comprobarDNI(dni, letra);

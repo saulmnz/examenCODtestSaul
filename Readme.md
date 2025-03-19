@@ -43,6 +43,8 @@ Formato del `Readme` *1 punto*
             "98765432, K, true",
             "11111111, H, true",
             "53974423, R, true",
+            "53123155, J, false",
+            "53974423, W, false"
             
     // CASOS INCORRECTOS 
     
