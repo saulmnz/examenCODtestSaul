@@ -5,7 +5,7 @@
 
 public class Main {
     public static void main(String[] args) {
-
+        int dni;
         if (comprobarDNI("00000000",'T')) {
             System.out.println("El DNI es correcto");
         } else {
